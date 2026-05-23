@@ -48,6 +48,20 @@ Análise exploratória das internações por transtornos mentais e comportamenta
 | Distribuição Geográfica | Top 20 municípios com mais internações |
 | Diagnósticos por Ano | Evolução dos principais diagnósticos 2018-2023 |
 
+## 📸 Dashboard
+
+**Visão Geral**
+![Visão Geral](imagens/visão_geral.jpg)
+
+**Perfil do Paciente**
+![Perfil do Paciente](imagens/perfil_paciente.jpg)
+
+**Distribuição Geográfica**
+![Distribuição Geográfica](imagens/distribuição_geográfica.jpg)
+
+**Diagnósticos por Ano**
+![Diagnósticos por Ano](imagens/diag_ano.jpg)
+
 ## 📥 Fonte dos Dados
 
 Ministério da Saúde — Sistema de Informações Hospitalares do SUS (SIH/SUS)  
